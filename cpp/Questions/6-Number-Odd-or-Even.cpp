@@ -1,0 +1,1 @@
+// 6. Check whether the number is odd or even without using mod operator in C++.

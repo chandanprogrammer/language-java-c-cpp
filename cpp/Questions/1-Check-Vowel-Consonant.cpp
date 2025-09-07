@@ -1,0 +1,1 @@
+// 1. Check Whether a Character is Vowel or Consonant in C++.

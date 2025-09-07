@@ -1,0 +1,1 @@
+// 2. Check whether the given character is an alphabet or not in C++.
